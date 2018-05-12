@@ -1,0 +1,44 @@
+_repo: Nineteenth-Century-Questions_44628
+_version: 0.1.0
+alternative_title: 19th Century Questions
+covers:
+- cover_type: archival
+  image_path: 44628-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clarke, James Freeman
+    alias: Clarke, J. F. (James Freeman)
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '5630'
+    url: http://www.gutenberg.org/2009/agents/5630
+    wikipedia: http://en.wikipedia.org/wiki/James_Freeman_Clarke
+description: 'Literary studies: Lyric and dramatic elements in literature and art.
+  Dualism in national life. Did Shakespeare write Bacon''s work? The evolution of
+  a great poem: Gray''s elegy.--Religious and philosophical: Affinities of Buddhism
+  and Christianity. Why I am not a free-religionist. Have animals souls? Apropos of
+  Tyndall. Law and design in nature.--Historical and biographical: The two Carlyles,
+  or Carlyle past and present. Buckle and his theory of averages. Voltaire. Ralph
+  Waldo Emerson. Harriet Martineau. The rise and fall of the slave power in America.'
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44628'
+  lccn: '21019356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcc 'PS'
+- !lcsh 'Civilization, Modern -- 19th century'
+tableOfContents: 'Literary studies: Lyric and dramatic elements in literature and
+  art. Dualism in national life. Did Shakespeare write Bacon''s works? The evolution
+  of a great poem: Gray''s elegy -- Religious and philosophical: Affinities of Buddhism
+  and Christianity. Why I am not a free-religionist. Have animals souls? Apropos of
+  Tyndall. Law and design in nature -- Historical and biographical: The two Carlyles,
+  or Carlyle past and present. Buckle and his theory of averages. Voltaire. Ralph
+  Waldo Emerson. Harriet Martineau. The rise and fall of the slave power in America.'
+title: Nineteenth Century Questions
+url: http://www.gutenberg.org/ebooks/44628
